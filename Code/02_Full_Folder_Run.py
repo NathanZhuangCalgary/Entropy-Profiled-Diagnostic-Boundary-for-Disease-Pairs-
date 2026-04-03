@@ -269,7 +269,7 @@ for i, filename in enumerate(csv_files, start=1):
 # ============================================================
 if master_results:
     output_df = pd.DataFrame(master_results)
-    out_csv = os.path.join(OUTPUT_DIR, "Master_Validation_Summary.csv")
+    out_csv = os.path.join(OUTPUT_DIR, "Validation_Summary.csv")
     output_df.to_csv(out_csv, index=False)
     print(f"\nAll runs complete. Summary saved to: {out_csv}")
 else:
