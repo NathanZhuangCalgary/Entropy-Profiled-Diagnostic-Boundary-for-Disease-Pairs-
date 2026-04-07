@@ -1,6 +1,7 @@
 Data Sources
 
 The clinical autoimmune dataset used in this project was obtained from:
+
 Mahdi, M. F., Jahani, A., & Abd, D. H. (2025). Diagnosis of rheumatic and autoimmune diseases dataset. Data in Brief, 60, 111623. https://doi.org/10.1016/j.dib.2025.111623
 
 Method References
