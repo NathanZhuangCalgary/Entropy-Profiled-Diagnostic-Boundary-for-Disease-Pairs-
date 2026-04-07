@@ -1,6 +1,8 @@
 # Entropy-Profiled-Diagnostic-Boundary-for-Disease-Pairs-
 Version: 0.1.0
 
+See CITATIONS.md for data sources and references.
+
 Entropy-Profiled Diagnostic Boundary for Disease Pairs Test Used To Quantify Uncertainty Across Disease Pairs. 
 
 *Next Version Will Include A Fully Executable Python Package. 
